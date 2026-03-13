@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **saifhasan005/saifhasan005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ides to get you started:
@@ -13,4 +12,4 @@ Here are some ides to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
