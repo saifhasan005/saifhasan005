@@ -47,9 +47,9 @@ I'm a passionate **Frontend Developer** from **Joypurhat, Bangladesh** 🇧🇩,
 ## 🌐 Connect With Me
  
 <p align="left">
-  <a href="www.linkedin.com/in/rafiuzzaman-saif target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/rafiuzzaman-saif" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://www.facebook.com/SiFu05" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
